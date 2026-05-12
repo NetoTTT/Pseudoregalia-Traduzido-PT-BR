@@ -4,6 +4,8 @@
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20BR-green)
 ![Jogo](https://img.shields.io/badge/Jogo-Pseudoregalia-8b5cf6)
 ![IA](https://img.shields.io/badge/Tradução-Assistida%20por%20IA-orange)
+[![Nexus Mods](https://img.shields.io/badge/Nexus_Mods-Disponível-yellow?logo=nexusmods)](https://www.nexusmods.com/pseudoregalia/mods/109)
+
 
 Tradução não-oficial para **Português Brasileiro** do jogo **Pseudoregalia**, desenvolvido pela **rittzler**.
 
@@ -52,8 +54,9 @@ Isso é uma **limitação técnica do jogo**, não um erro da tradução.
 
 ### Passo 2 — Copie o arquivo de tradução
 
-1. Baixe o arquivo **`pseudoregalia-PTBR_P.pak`** deste repositório.
+1. Baixe o arquivo **`pseudoregalia-PTBR_P.pak`** deste repositório ou pelo [Nexus Mods](https://www.nexusmods.com/pseudoregalia/mods/109).
 2. **Cole-o** dentro da pasta `Paks\` do jogo.
+
 
 O resultado final deve ser assim:
 ```
@@ -138,6 +141,8 @@ Este é um projeto **não-oficial** feito por fãs, sem afiliação com **rittzl
 ## <img src="assets/icons/heart.svg" width="22" height="22" alt="Créditos"> Créditos
 
 - **Tradução**: [NetoTTT](https://github.com/NetoTTT) (com auxílio de IA)
+- **Nexus Mods**: [Página do Mod](https://www.nexusmods.com/pseudoregalia/mods/109)
 - **Jogo Original**: [rittzler](https://store.steampowered.com/app/2365810/Pseudoregalia/) — obrigado pelo jogo incrível!
+
 - **Ferramentas**: [UAssetAPI](https://github.com/atenfyr/UAssetAPI) · [repak](https://github.com/trumank/repak)
 - **Código-fonte da pipeline de tradução**: [ue5-pak-translator](https://github.com/NetoTTT/ue5-pak-translator)

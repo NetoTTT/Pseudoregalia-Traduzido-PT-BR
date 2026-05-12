@@ -47,8 +47,9 @@ Passo 1 - Localize a pasta do jogo
 5. Navegue ate a pasta: pseudoregalia\Content\Paks\
 
 Passo 2 - Copie o arquivo de traducao
-1. Baixe o arquivo "pseudoregalia-PTBR_P.pak" deste repositorio.
+1. Baixe o arquivo "pseudoregalia-PTBR_P.pak" deste repositorio ou pelo Nexus Mods (https://www.nexusmods.com/pseudoregalia/mods/109).
 2. Cole-o dentro da pasta Paks\ do jogo.
+
 
 O resultado final deve ser assim:
 pseudoregalia\Content\Paks\
@@ -112,6 +113,8 @@ Este e um projeto nao-oficial feito por fas, sem afiliacao com rittzler (desenvo
 CREDITOS
 
 - Traducao: NetoTTT (com auxilio de IA)
+- Nexus Mods: https://www.nexusmods.com/pseudoregalia/mods/109
 - Jogo Original: rittzler
+
 - Ferramentas: UAssetAPI, repak
 - Codigo-fonte da pipeline de traducao: ue5-pak-translator (GitHub)
